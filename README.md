@@ -99,7 +99,7 @@ https://ph2don.oloadcdn.net/dl/l/QWRQJ2BDBY-IM8eC/S5zJjHUEAts/A+HORA+DO+PESADELO
 https://1fhjm3k.oloadcdn.net/dl/l/o4Te3lkGkOtYOCSv/CcUhKhQ4RoI/Kung.Fu.Panda.3.2016.720p.BluRay.Dublado.mp4?mime=true
 
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/O_EaVQJ8fRY/hqdefault.jpg" group-title="FILM",Carros 3
-http://pipocaofilmes.online/legendas-utf8/Cars.3.2017.1080p.WEB-DL.DD5.1.H264-FGT.srt
+http://movies30.redecanais.ru/movies/carros3-dub-720p.mp4
 
 #EXTINF:0 tvg-logo="https://suaevolucao.com.br/wp-content/uploads/2018/08/divertida-mente-jk.png" group-title="FILM",Divertida Mente
 https://s002.thevid.net/v/43e0da86ea802ff18bb1573b021ff6a1.mp4?e=1541645456&sa=pHCLqYOCYIz6T5X-OfuoQw&st=aPmuBUSGoMvgtxaF5qAcpQ
