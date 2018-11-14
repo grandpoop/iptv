@@ -93,7 +93,8 @@ https://1fhjlp5.oloadcdn.net/dl/l/4NK-_IKiTnkRGma6/8RDniWyH3kw/Pesadelo1.BDRip.7
 https://1fgm8gb.oloadcdn.net/dl/l/R9aBu1fCWbG2T6QD/HHrDn6juOaY/A+Hora+do+Pesadelo+2%3A+A+Vingan%C3%A7a+de+Freddy+mp4?mime=true
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/oW5CfpT8ga1ULWLfTmP20tlIDH3.jpg" group-title="FILM",Hora do Pesadelo 7
-https://ph2don.oloadcdn.net/dl/l/QWRQJ2BDBY-IM8eC/S5zJjHUEAts/A+HORA+DO+PESADELO++7+O+Novo+Pesadelo%3A+O+Retorno+de+Freddy+Krueger+mp4?mime=true
+https://r1---sn-bg07dnlk.c.drive.google.com/videoplayback?expire=1542253244&ei=fLLsW9HNF4XK-wWEyI3ACg&ip=2804:14c:4c1:828:2d7a:25d5:a792:bbfb&cp=QVNJVENfUlJSRVhOOlJmZkVhejItbG9aOU1sSUhrdVlJQktUeHJZZEtRTFNzREZJdDNORExvd04&id=47b2c4aa1c331163&itag=59&source=webdrive&requiressl=yes&mm=30&mn=sn-bg07dnlk&ms=nxu&mv=m&pl=48&ttl=transient&susc=dr&driveid=0By53RJS7n5GZSU9PUzJEQmJDWTg&app=explorer&mime=video/mp4&dur=6736.619&lmt=1470271894677892&mt=1542238777&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,dur,lmt&sig=AIpKg0IwRQIgaJ9JtRwIrauIIt0zG1S_gLTqIiDb9ElfFlWd7_maETsCIQCrRZ-L7eDJ3Dv06tC6qYVWIZCWQKp0bQtiD9JfgG6Q5w==&lsparams=mm,mn,ms,mv,pl&lsig=ADGRJxowRAIgHhkLGhOi9lwHHWsaH5kidhka5R74lT0k_2UAyB6ylFgCIC5Bl0zp7NjgzYmJcuLn2EAdIuMnAkCAlJnDtpDRmGRZ&cpn=0ugdySZIwuCrNycl&c=WEB_EMBEDDED_PLAYER&cver=20181113
+
 
 #EXTINF:0 tvg-logo="http://straightfromamovie.com/wp-content/uploads/2016/04/kung-fu-panda-3.jpg" group-title="FILM",Kung Fu Panda 3
 https://1fhjm3k.oloadcdn.net/dl/l/o4Te3lkGkOtYOCSv/CcUhKhQ4RoI/Kung.Fu.Panda.3.2016.720p.BluRay.Dublado.mp4?mime=true
