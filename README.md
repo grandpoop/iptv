@@ -93,7 +93,7 @@ https://1fhjlp5.oloadcdn.net/dl/l/4NK-_IKiTnkRGma6/8RDniWyH3kw/Pesadelo1.BDRip.7
 https://1fgm8gb.oloadcdn.net/dl/l/R9aBu1fCWbG2T6QD/HHrDn6juOaY/A+Hora+do+Pesadelo+2%3A+A+Vingan%C3%A7a+de+Freddy+mp4?mime=true
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/oW5CfpT8ga1ULWLfTmP20tlIDH3.jpg" group-title="FILM",Hora do Pesadelo 7
-https://r1---sn-bg07dnlk.c.drive.google.com/videoplayback?expire=1542253244&ei=fLLsW9HNF4XK-wWEyI3ACg&ip=2804:14c:4c1:828:2d7a:25d5:a792:bbfb&cp=QVNJVENfUlJSRVhOOlJmZkVhejItbG9aOU1sSUhrdVlJQktUeHJZZEtRTFNzREZJdDNORExvd04&id=47b2c4aa1c331163&itag=18&source=webdrive&requiressl=yes&mm=30&mn=sn-bg07dnlk&ms=nxu&mv=m&pl=48&ttl=transient&susc=dr&driveid=0By53RJS7n5GZSU9PUzJEQmJDWTg&app=explorer&mime=video/mp4&dur=6736.619&lmt=1470270611994408&mt=1542238777&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,dur,lmt&sig=AIpKg0IwRQIgKmzhNgnSWA3PqWltpXO-BGJ5Gk_n_-CcYwC9eP0hxbcCIQDWr_5vIOR3RKhjiLwRIzUr01QFoSG-fmiKUrSM2nn6OA==&lsparams=mm,mn,ms,mv,pl&lsig=ADGRJxowRgIhALQRcnIFT77ogWHWpUUAvGjioLi3K2jKXNkB1Lh3buKtAiEAt0uDiNmRHn3pchaLsLlvImTX5R48-hkh-wGsqr1q_XA=&cpn=0ugdySZIwuCrNycl&c=WEB_EMBEDDED_PLAYER&cver=20181113
+https://cdn62.my.mail.ru/hv/53690431.mp4/ainit.mp4?expire_at=1542250800&p=f&reg=234&sign=6687505b229417884b8bdb6e0d3e84eb8d8acb42&slave%5B%5D=s%3Ahttp%3A%2F%2Fvideo-cephgw1.i%3A9093%2Frados3%2F53690431-hv&touch=1427950432
 
 
 #EXTINF:0 tvg-logo="http://straightfromamovie.com/wp-content/uploads/2016/04/kung-fu-panda-3.jpg" group-title="FILM",Kung Fu Panda 3
